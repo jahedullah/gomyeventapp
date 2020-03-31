@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "688741152548",
+    "firebase_url": "https://gomyevent-9bc16.firebaseio.com",
+    "project_id": "gomyevent-9bc16",
+    "storage_bucket": "gomyevent-9bc16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688741152548:android:77303059d70aba106ee5b1",
+        "android_client_info": {
+          "package_name": "com.example.gomyevent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688741152548-ahma3poceut2ltsuitthrvlj0tcmb6dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiCFenIkzWIzqz9gefJA5zriL8oGzjOmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688741152548-ahma3poceut2ltsuitthrvlj0tcmb6dm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
